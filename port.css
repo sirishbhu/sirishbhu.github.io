@@ -1,7 +1,7 @@
 
 body{
 	 
-    height: 1350px;
+    height:1300px;
     width:100px;
      background:linear-gradient(101deg,  #41d6f4 0%, #99fff3 51%, #95f4d3 75%);
     
@@ -35,7 +35,7 @@ color:#e2d222;
     width: 500px;
     height: 200px;
     top: 62%;
-    left: 38%;
+    left: 40%;
 padding: 0;
     margin-left: -50px; 
     margin-top: -25px; 
